@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_1" data-name="Capa 1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 167.78 167.72">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#Red-Orange-12);
+      }
+
+      .cls-2 {
+        fill: url(#Red-Orange-10);
+      }
+
+      .cls-3 {
+        fill: url(#Red-Orange-13);
+      }
+
+      .cls-4 {
+        fill: url(#Red-Orange-11);
+      }
+
+      .cls-5 {
+        fill: url(#Red-Orange-8);
+      }
+
+      .cls-6 {
+        fill: url(#Red-Orange-9);
+      }
+
+      .cls-7 {
+        fill: url(#Red-Orange-6);
+      }
+
+      .cls-8 {
+        fill: url(#Red-Orange-7);
+      }
+
+      .cls-9 {
+        fill: url(#Red-Orange-4);
+      }
+
+      .cls-10 {
+        fill: url(#Red-Orange-5);
+      }
+
+      .cls-11 {
+        fill: url(#Red-Orange-2);
+      }
+
+      .cls-12 {
+        fill: url(#Red-Orange-3);
+      }
+
+      .cls-13 {
+        fill: url(#Red-Orange);
+      }
+
+      .cls-14 {
+        fill: url(#Degradado_sin_nombre_10);
+      }
+    </style>
+    <linearGradient id="Red-Orange" x1="107.38" y1="103.15" x2="115.77" y2="103.15" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#d11149"/>
+      <stop offset="1" stop-color="#fb8b24"/>
+    </linearGradient>
+    <linearGradient id="Red-Orange-2" data-name="Red-Orange" y1="89.73" y2="89.73" xlink:href="#Red-Orange"/>
+    <linearGradient id="Red-Orange-3" data-name="Red-Orange" y1="76.31" y2="76.31" xlink:href="#Red-Orange"/>
+    <linearGradient id="Red-Orange-4" data-name="Red-Orange" x1="120.8" x2="129.19" xlink:href="#Red-Orange"/>
+    <linearGradient id="Red-Orange-5" data-name="Red-Orange" x1="120.8" y1="89.73" x2="129.19" y2="89.73" xlink:href="#Red-Orange"/>
+    <linearGradient id="Red-Orange-6" data-name="Red-Orange" x1="120.8" y1="76.31" x2="129.19" y2="76.31" xlink:href="#Red-Orange"/>
+    <linearGradient id="Red-Orange-7" data-name="Red-Orange" x1="134.22" x2="142.61" xlink:href="#Red-Orange"/>
+    <linearGradient id="Red-Orange-8" data-name="Red-Orange" x1="134.22" y1="89.73" x2="142.61" y2="89.73" xlink:href="#Red-Orange"/>
+    <linearGradient id="Red-Orange-9" data-name="Red-Orange" x1="134.22" y1="76.31" x2="142.61" y2="76.31" xlink:href="#Red-Orange"/>
+    <linearGradient id="Red-Orange-10" data-name="Red-Orange" x1="147.64" x2="156.03" xlink:href="#Red-Orange"/>
+    <linearGradient id="Red-Orange-11" data-name="Red-Orange" x1="147.64" y1="89.73" x2="156.03" y2="89.73" xlink:href="#Red-Orange"/>
+    <linearGradient id="Red-Orange-12" data-name="Red-Orange" x1="147.64" y1="76.31" x2="156.03" y2="76.31" xlink:href="#Red-Orange"/>
+    <linearGradient id="Degradado_sin_nombre_10" data-name="Degradado sin nombre 10" x1="0" y1="144.33" x2="167.78" y2="144.33" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fb8b24"/>
+      <stop offset="1" stop-color="#d11149"/>
+    </linearGradient>
+    <linearGradient id="Red-Orange-13" data-name="Red-Orange" x1="0" y1="58.7" x2="167.78" y2="58.7" xlink:href="#Red-Orange"/>
+  </defs>
+  <rect class="cls-13" x="107.38" y="98.95" width="8.39" height="8.39"/>
+  <rect class="cls-11" x="107.38" y="85.54" width="8.39" height="8.39"/>
+  <rect class="cls-12" x="107.38" y="72.12" width="8.39" height="8.39"/>
+  <rect class="cls-9" x="120.8" y="98.95" width="8.39" height="8.39"/>
+  <rect class="cls-10" x="120.8" y="85.54" width="8.39" height="8.39"/>
+  <rect class="cls-7" x="120.8" y="72.12" width="8.39" height="8.39"/>
+  <rect class="cls-8" x="134.22" y="98.95" width="8.39" height="8.39"/>
+  <rect class="cls-5" x="134.22" y="85.54" width="8.39" height="8.39"/>
+  <rect class="cls-6" x="134.22" y="72.12" width="8.39" height="8.39"/>
+  <rect class="cls-2" x="147.64" y="98.95" width="8.39" height="8.39"/>
+  <rect class="cls-4" x="147.64" y="85.54" width="8.39" height="8.39"/>
+  <rect class="cls-1" x="147.64" y="72.12" width="8.39" height="8.39"/>
+  <path class="cls-14" d="M159.39,120.94c-1.47,0-2.92,.39-4.19,1.12h0s-41.32,23.85-41.32,23.85h-30.68c.46-1.06,.7-2.2,.7-3.35,0-4.63-3.76-8.39-8.39-8.39H33.56L0,167.72H109.66l53.92-31.13c2.6-1.5,4.19-4.27,4.19-7.26,0-4.63-3.76-8.39-8.39-8.39Zm1.67,11.29l-52.75,30.45H12.15l23.49-23.48h39.86c1.85,0,3.36,1.5,3.36,3.35s-1.5,3.35-3.36,3.35h-20.97v5.03h60.7l42.48-24.52h0c.51-.3,1.09-.45,1.68-.45,1.85,0,3.36,1.5,3.36,3.35,0,1.2-.64,2.31-1.68,2.9Z"/>
+  <path class="cls-3" d="M134.22,33.54L100.67,0H33.56V43.54L0,67.09v50.32H167.78V33.54h-33.56ZM33.56,112.37H5.03v-42.67l28.52-20.01v62.68ZM95.63,13.42H55.37v5.03h40.27v8.39H55.37v5.03h40.27v8.39H55.37v5.03h40.27v8.39H55.37v5.03h40.27v8.39H55.37v5.03h40.27v8.39H55.37v5.03h40.27v8.39H55.37v5.03h40.27v13.42H38.59V5.03h57.04V13.42Zm67.11,98.95h-62.08v-45.28h62.08v45.28Zm0-50.31h-62.08V7.11l31.47,31.46h30.6v23.48Z"/>
+</svg>
